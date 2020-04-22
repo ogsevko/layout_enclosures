@@ -3,10 +3,9 @@ body {
   background-color: black;
 }
 
-.outer_box {
+.outer-box {
   width: 350px;
-  margin: 20px;
-  margin-bottom: 40px;
+  margin: 20px 20px 40px;
   box-sizing: border-box;
 }
 
